@@ -1,0 +1,6 @@
+#ifndef THERMOPROP_LIBRARY_H
+#define THERMOPROP_LIBRARY_H
+
+void hello();
+
+#endif //THERMOPROP_LIBRARY_H

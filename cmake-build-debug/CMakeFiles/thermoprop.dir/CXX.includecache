@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thiemo/CLionProjects/thermoprop/library.cpp
+library.h
+/Users/thiemo/CLionProjects/thermoprop/library.h
+iostream
+-
+
+/Users/thiemo/CLionProjects/thermoprop/library.h
+
